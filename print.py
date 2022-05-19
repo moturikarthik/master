@@ -1,4 +1,4 @@
-a="karthik"
+a="karthikkk"
 count=0
 for i in a:
  if i=="k":
